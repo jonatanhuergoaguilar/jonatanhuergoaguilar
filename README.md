@@ -12,7 +12,7 @@
 [![ArtStation](https://img.shields.io/badge/-ArtStation-0c8ec4?style=flat-square&logo=artstation&logoColor=white&link=https://www.artstation.com/shvana/)](https://www.artstation.com/shvana)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:htsunemikuv9@gmail.com)](mailto:htsunemikuv9@gmail.com)
 
-[![Github Followers](https://img.shields.io/github/followers/Shvana?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/Hone-Onna?tab=followers)
+[![Github Followers](https://img.shields.io/github/followers/Hone-Onna?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/Hone-Onna?tab=followers)
 
 ![](https://github-readme-stats.vercel.app/api?username=Hone-Onna&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hone-Onna&layout=compact)
