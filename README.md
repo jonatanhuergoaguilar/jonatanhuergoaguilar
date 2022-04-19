@@ -1,6 +1,6 @@
 ### Jonatan Huergo
 
-🎓 Pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻
+🎓 Software Engineering. 👨🏻‍💻
 
 👋 Welcome to my Github profile!
 
@@ -15,23 +15,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hone-Onna&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hone-Onna&layout=compact)
-
-### 🌱 I’m currently learning
-- Modern C++ (Currently, C++20)
-- C Language
-- Python
-- JavaScript, TypeScript
-- Kotlin
-
-### 🎴 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe XD](https://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-xd&logoColor=ffffff)
-![Adobe Illustrator](https://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-
-### 🔧 Frameworks
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 
 ### ☕ Support me
