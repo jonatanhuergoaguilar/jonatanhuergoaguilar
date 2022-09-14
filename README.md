@@ -1,8 +1,8 @@
 Hi 👋 My name is Jonatan Huergo Aguilar
 =======================================
 
-Software Engineering. 👨🏻‍💻
-------------------------
+Software Engineer. 👨🏻‍💻
+----------------------
 
 👋 Welcome to my Github profile!
 
