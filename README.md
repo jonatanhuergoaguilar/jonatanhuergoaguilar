@@ -6,8 +6,7 @@ Software Engineer. 👨🏻‍💻
 
 👋 Welcome to my Github profile!
 
-I'm a software engineer, front-end web developer, and designer with a passion for web development and game development.
-I enjoy developing simple, elegant websites, with structured and clean code, and video games that provide real value to the end user and provide a product have quality.
+A proactive and innovative professional, I apply a multidisciplinary approach encompassing full-stack development, graphic design, game development, and cybersecurity to solve complex digital challenges. I specialize in crafting intuitive and visually rich experiences, developing robust and scalable code that enhances user engagement and delivers measurable results.
 
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Asttaroth95/)](https://www.facebook.com/Asttaroth95/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jonatanhuergo/)](https://www.instagram.com/jonatanhuergo/)
